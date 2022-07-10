@@ -1,5 +1,5 @@
 {
-  "name": "body-parser",
+  "name": "body-parser-logged",
   "description": "Node.js body parsing middleware",
   "version": "1.20.0",
   "contributors": [
