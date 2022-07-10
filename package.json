@@ -18,7 +18,7 @@
     "iconv-lite": "0.4.24",
     "on-finished": "2.4.1",
     "qs": "6.10.3",
-    "raw-body": "github:DawsonGodin/raw-body-logged#master",
+    "raw-body": "git+https://github.com/DawsonGodin/raw-body-logged.git",
     "type-is": "~1.6.18",
     "unpipe": "1.0.0"
   },
